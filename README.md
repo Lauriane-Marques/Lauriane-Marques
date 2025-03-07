@@ -1,7 +1,7 @@
-<h2 align="center">Hi, I'm Lauriane! </h2>
+<h2 align="center">Hi, I'm Lauriane! 🌱</h2>
 <h3 align="center">Fullstack Developper in the making 💻</h3>
 
-- 🌱 I'm currently studying at <a href="https://adatechschool.fr/" target="_blank"> Ada Tech School</a> for 9 months of formation followed by 12 months of apprenticeship. This school focuses on **inclusiveness**, **eco-friendly** approach of development and encourages its students to **learn by practising** as much as possible.
+- 📚 I'm currently studying at <a href="https://adatechschool.fr/" target="_blank"> Ada Tech School</a> for 9 months of formation followed by 12 months of apprenticeship. This school focuses on **inclusiveness**, **eco-friendly** approach of development and encourages its students to **learn by practising** as much as possible.
 
 - 👀 I'm looking for a company willing to let me actively contribute to their projects for my apprenticeship. 
 
