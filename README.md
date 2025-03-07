@@ -1,12 +1,18 @@
 <h2 align="center">Hi, I'm Lauriane! </h2>
 <h3 align="center">Fullstack Developper in the making 💻</h3>
 
-- 🌱 I'm currently studying at <a href="https://adatechschool.fr/" target="_blank"> Ada Tech School</a> for a 9-months formation followed by 12 months of apprenticeship. This school focuses on **inclusiveness**, **eco-friendly** approach of development and encourages its students to **learn by practising** as much as possible.
+- 🌱 I'm currently studying at <a href="https://adatechschool.fr/" target="_blank"> Ada Tech School</a> for 9 months of formation followed by 12 months of apprenticeship. This school focuses on **inclusiveness**, **eco-friendly** approach of development and encourages its students to **learn by practising** as much as possible.
 
 - 👀 I'm looking for a company willing to let me actively contribute to their projects for my apprenticeship. 
 
 - 🤝 You can reach me by email : lauriane.marquesmartins@gmail.com or by messaging me on <a href="https://www.linkedin.com/in/lauriane-marques-martins/" target="_blank"> LinkedIn</a>
 
+<h4>On my profile you can find : </h4>
+<ul>
+<li> 📝 Individual exercises <a href="https://github.com/Lauriane-Marques/exercices_individuels" target="_blank">here</a></li>
+<li>⌛ Time-limited exercises <a href="https://github.com/stars/Lauriane-Marques/lists/katas" target="_blank">here</a></li>
+<li> 👥 Group projects <a href="https://github.com/stars/Lauriane-Marques/lists/school-projects" target="_blank">here</a></li>
+</ul>
 
 <h3>Languages and tools : </h3>
 
