@@ -16,19 +16,18 @@
 
 <h3>Languages and tools : </h3>
 
-<p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" height="40" alt="HTML logo"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40" alt="CSS logo"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="40" height="40" alt="Tailwindcss logo"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="40" height="40" alt="Javascript logo"/></a>
-<a href="https://fr.react.dev/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" height="40" alt="React logo"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40" height="40" alt="Typescript logo"/></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://www.php.net/images/logos/php-logo-white.svg" width="40" height="40" alt="Php logo"/></a>
-<a href="https://www.mysql.com/fr/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" width="40" height="40" alt="MySQL logo"/></a>
-</p>
+[<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="40" height="40">](https://tailwindcss.com/)
+[<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40" height="40">](https://www.typescriptlang.org/)
+[<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" height="40">](https://react.dev/)
+[<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40" height="40">](https://nodejs.org/en)
+[<img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="40" height="40">](https://expressjs.com/)
+[<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="40" height="40">](https://www.postgresql.org/)
 
 
-<em>And more to come, because I'm always eager to learn new technologies...</em>
+_And more to come, because I'm always eager to learn new technologies..._
 
 <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNicjdzaGk5enpxMG16b2x3ZnJwYnc3YzZ2M3VjOHNwa2M2bWJnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Gif of a penguin coding"/></p>
 
